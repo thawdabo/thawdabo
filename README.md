@@ -1,0 +1,5 @@
+- 👋 Hi, I’m thawdabo.
+- 👀 I’m interested in circuit of audio amplifier and subwoofer 2.1 channel, single supply tone control, low pass filter etc,.
+- 🌱 I’m currently learning about amplifier achematics and pcb.
+- 💞️ I’m looking to collaborate on audio amplifier schematics desingn engineer.
+- 📫 How to reach me? Yeah thawdabo@gmail.com +959968620066
